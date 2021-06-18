@@ -1,7 +1,7 @@
 # Discord_webhook
 if you want to run you have to install the following libraries:
-pip install discordwebhook
-pip install discord_webhook
-pip install time
-pip install os
-pip install colorama
+1. pip install discordwebhook
+2. pip install discord_webhook
+3. pip install time
+4. pip install os
+5. pip install colorama
